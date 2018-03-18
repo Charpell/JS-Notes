@@ -1,0 +1,18 @@
+Pattern
+
+A re-useable solution that can be applied to occuring problems in software design (Javascript Application)
+
+Can also be thought of as programming templates
+
+Situations vary significantly
+
+All language have patterns
+
+Types
+Module
+Revealing Module Pattern
+Singleton
+Factory
+Observer
+Mediator
+State
